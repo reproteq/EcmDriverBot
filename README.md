@@ -2,8 +2,6 @@
 
 Auto Driver Download Bot
 
-reproteq/EcmDriverBot
-
 https://youtu.be/NSfSCQnk5UM
 
 
